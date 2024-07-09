@@ -10,15 +10,18 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/loisRK/algorithm-Leetcode/tree/master/0020-valid-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/loisRK/algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/loisRK/algorithm-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/loisRK/algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/loisRK/algorithm-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loisRK/algorithm-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/loisRK/algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +38,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loisRK/algorithm-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/loisRK/algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
