@@ -6,7 +6,6 @@ class Solution(object):
         """
         five = []
         ten = []
-        twenty = []
         cnt = 0
 
         if bills[0] > 5:
