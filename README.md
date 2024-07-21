@@ -22,6 +22,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loisRK/algorithm-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/loisRK/algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/loisRK/algorithm-Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/loisRK/algorithm-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/loisRK/algorithm-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/loisRK/algorithm-Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/loisRK/algorithm-Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/loisRK/algorithm-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0904-leaf-similar-trees](https://github.com/loisRK/algorithm-Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/loisRK/algorithm-Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/loisRK/algorithm-Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
