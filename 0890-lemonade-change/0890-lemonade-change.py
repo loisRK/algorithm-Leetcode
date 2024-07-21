@@ -18,13 +18,13 @@ class Solution(object):
             elif bills[i] == 10:
                 if len(five) > 0:
                     ten.append(bills[i])
-                    del five[0]
+                    five = five[1:]
                 else:
                     return False
             elif bills[i] == 20:
                 if len(five) > 0 and len(ten) > 0:
-                    del five[0]
-                    del ten[0]
+                    five = five[1:]
+                    ten = ten[1:]
                 elif len(five) >= 3 and len(ten) == 0:
                     five = five[3:]
                 else:
