@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/loisRK/algorithm-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loisRK/algorithm-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/loisRK/algorithm-Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/loisRK/algorithm-Leetcode/tree/master/0890-lemonade-change) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/loisRK/algorithm-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loisRK/algorithm-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/loisRK/algorithm-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/loisRK/algorithm-Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
