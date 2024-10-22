@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/loisRK/algorithm-Leetcode/tree/master/0020-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/loisRK/algorithm-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/loisRK/algorithm-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loisRK/algorithm-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/loisRK/algorithm-Leetcode/tree/master/0455-assign-cookies) |
+| [1894-merge-strings-alternately](https://github.com/loisRK/algorithm-Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
